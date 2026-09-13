@@ -60,5 +60,3 @@ Añade este enlace al final de tu archivo `README.md` principal[cite: 2]:
 
 Para revisar la guía del laboratorio 03, consulta nuestra [Guía de trabajo](docs/GUIA.md)
 ```
-
-- [Guia del proyecto](docs/GUIA.md)
